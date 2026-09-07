@@ -6,8 +6,9 @@ A single self-contained HTML build of the Radial Defence merge hook, published h
 be opened on a phone.
 
 This build carries **the game's own art** — the tower, the five cannon bodies, the meadow and the
-horde's run cycle, exported from the Unity project — because the point of it is to be compared
-against the game frame by frame. Earlier builds here were placeholder geometry. No store URLs, no
+horde's run cycle, exported from the Unity project — and its effects are the game's own particle
+prefabs replayed. Between rounds it shows the shipped build's upgrade screen: "Round complete!",
+then a Heal button and a Cannon button at the shipped prices and layout. No store URLs, no
 endpoints, no account data.
 
 Source lives elsewhere; this repo holds a generated artefact and nothing else.
