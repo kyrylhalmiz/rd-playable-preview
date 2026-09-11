@@ -8,7 +8,7 @@ kept unchanged: placeholder art, no game meshes, the merge button and nothing el
 Each page is one self-contained HTML build of the Radial Defence merge hook, published here only so
 it can be opened on a phone.
 
-This build carries **the game's own art** — the tower, the five cannon bodies, the meadow and the
+The current build carries **the game's own art** — the tower, the five cannon bodies, the meadow and the
 horde's run cycle, exported from the Unity project — and its effects are the game's own particle
 prefabs replayed. Between rounds it shows the shipped build's upgrade screen: "Round complete!",
 then a Heal button and a Cannon button at the shipped prices and layout. No store URLs, no
