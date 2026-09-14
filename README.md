@@ -15,3 +15,5 @@ then a Heal button and a Cannon button at the shipped prices and layout. No stor
 endpoints, no account data.
 
 Source lives elsewhere; this repo holds a generated artefact and nothing else.
+
+`hands/index.html` is the hands hook: the sheet's white tower with arms, hands that reach for the gun thrown from the pad and hold it, five guns from Desert Eagle to rocket launcher, a zombie horde and the ogre boss, all generated from the reference sheet.
